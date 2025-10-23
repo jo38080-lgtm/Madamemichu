@@ -1,23 +1,13 @@
-# Rappel du Markdown pour les fichier .md sur GitHub
-## Syntaxe de base
-### En début de ligne
-`# Titre niveau 1` # Titre niveau 1\
-`## Titre niveau 2` ## Titre niveau 2\
-`### Titre niveau 3`  ### Titre niveau 3\
-`> Citation` > Citation\
+###
+## Dépannage de Madame Michu
+### Étape 1 : Réparer le démarrage de Windows
+
 Pour faire une séparation: 3 `-` en début de ligne\
 
 ---
 
 ### Autour du texte à mettre en évidence
-`**texte** ou __texte__`  **gras**\
-`*texte* ou _texte_`  *italique*\
-`~~texte~~`  ~~barré~~\
-`**du texte gras avec _du texte en italique_ imbriqué**`  **du texte gras avec _du texte en italique_ imbriqué**\
-`***tout un texte***`  ***texte en gras et italique***\
-`texte<sub>indice</sub>`  texte<sub>indice</sub>\
-`texte<sup>exposant</sup>`  texte<sup>exposant</sup>\
-\`du code\`  `du code`
+
 
 ---
 
